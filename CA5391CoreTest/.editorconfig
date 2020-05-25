@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA5391: Use antiforgery tokens in ASP.NET Core MVC controllers
+dotnet_diagnostic.CA5391.severity = error

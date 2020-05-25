@@ -1,0 +1,8 @@
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\CA5391CoreTest.csprojAssemblyReference.cache
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\staticwebassets\CA5391CoreTest.StaticWebAssets.Manifest.cache
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\staticwebassets\CA5391CoreTest.StaticWebAssets.xml
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\CA5391CoreTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\CA5391CoreTest.RazorAssemblyInfo.cache
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\CA5391CoreTest.RazorAssemblyInfo.cs
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\CA5391CoreTest.AssemblyInfoInputs.cache
+C:\Users\linche\source\repos\CA5391CoreTest\CA5391CoreTest\obj\Debug\netcoreapp3.0\CA5391CoreTest.AssemblyInfo.cs

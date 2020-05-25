@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\linche\\source\\repos\\CA5391CoreTest\\CA5391CoreTest\\CA5391CoreTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\linche\\source\\repos\\CA5391CoreTest\\CA5391CoreTest\\CA5391CoreTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\linche\\source\\repos\\CA5391CoreTest\\CA5391CoreTest\\CA5391CoreTest.csproj",
+        "projectName": "CA5391CoreTest",
+        "projectPath": "C:\\Users\\linche\\source\\repos\\CA5391CoreTest\\CA5391CoreTest\\CA5391CoreTest.csproj",
+        "packagesPath": "C:\\Users\\linche\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linche\\source\\repos\\CA5391CoreTest\\CA5391CoreTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\linche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "D:\\Code\\LLLXXXCCC\\roslyn-analyzers\\artifacts\\packages\\Debug\\Release": {},
+          "D:\\Code\\Roslyn Analyzer\\roslyn-analyzers\\artifacts\\packages\\Debug\\Shipping": {},
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
